@@ -6,3 +6,4 @@ Pipeline for integrating GWAS summary statistics and single cell ATAC-seq data
 * [Calculate LD scores](Calculate_LD_Score)
 * [Calculate cell type specific enrichment](Cts_LDSC)
 * [Estimate heritability](H2_LDSC)
+* [Fine-mapping with SparsePro](SparsePro_gw)
